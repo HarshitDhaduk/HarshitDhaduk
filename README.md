@@ -65,14 +65,6 @@ A backend service for financial portfolio automation:
 
 ---
 
-## 📈 GitHub Stats
-
-![HarshitDhaduk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitDhaduk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDhaduk&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - **Email:** dhadukharshit@gmail.com  
