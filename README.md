@@ -1,44 +1,71 @@
 # 👋 Hi, I'm Harshit Dhaduk
 
-### Biomedical Engineering Student | Full-Stack Developer | AI & ML Enthusiast
+### Backend & Full-Stack Engineer | AI/ML Integrator
 
 ---
 
 🚀 **About Me**
 
-I'm a passionate developer with a strong foundation in biomedical engineering, currently exploring the intersection of healthcare and technology. My interests lie in building full-stack applications and integrating AI & ML solutions to solve real-world problems.
+I am a software engineer specialising in scalable backend systems, full-stack web applications, and practical AI/ML solutions. I enjoy building reliable, efficient services and APIs that solve real-world problems. I focus on clean architecture, performance optimisation, and deploying systems that users depend on.
+
+I am actively seeking opportunities where I can contribute to impactful products and evolve as a backend and full-stack engineer.
 
 ---
 
-🛠️ **Current Projects**
+## 🛠️ Core Projects
 
-- **Carecast**: An AI-driven health diagnostics platform featuring:
-  - **Smart Disease Prediction**: Utilizing machine learning to predict health risks.
-  - **Conversational AI**: A custom-trained LLM-based chatbot for personalized health insights.
-  - **Real-Time Diagnostics**: Providing immediate health assessments.
-
-- **sEMG-Hand-Gesture-Models**: Deep learning models for hand gesture recognition using sEMG signals.
-
-- **Trading-Bots**: Development of versatile trading bots employing technical analysis strategies like SMA, VWAP, and Bollinger Bands.
-
-- **Hospital Management System**: A web application to manage hospital operations efficiently.
-  
- - **Amazon-clone**: A full-stack e-commerce application mimicking Amazon's core functionalities.
-
-- **Data Analytics Project**: Web scraping and Power BI dashboard to track records and performance of cricketers.
+### 🧠 **Carecast – Intelligent Health Diagnostics**
+**Stack:** Python, Flask, scikit-learn, REST API  
+A production-oriented health insights platform with:
+- **ML-driven Disease Predictions** — Models for diabetes, heart conditions, cancer risk, and kidney disorders.
+- **API-first Architecture** — Fast, secure REST endpoints for inference with sub-second response times.
+- **Frontend Integration** — Seamless connection between UI and backend prediction services.
+- **Impact:** Simplifies health screening and provides actionable insights via intelligent automation.
 
 ---
 
-💼 **Technical Skills**
-
-- **Languages**: Python, JavaScript, C++, HTML, CSS
-- **Frameworks & Libraries**: React, Next.js, Node.js, FastAPI, TensorFlow, Keras, OpenCV
-- **Databases**: Firebase, CosmosDB
-- **Tools & Platforms**: Azure OpenAI, GitHub, VS Code
+### 💬 **Dating Application – Real-Time Matching & Chat**
+**Stack:** Node.js, Express, Socket.IO, MongoDB, JWT  
+A social platform backend focused on real-time interactions:
+- **Advanced Matching Logic** — Community and interest-based grouping to improve user relevance.
+- **Real-Time Chat Services** — WebSocket-powered communication with support for rooms and presence tracking.
+- **CI/CD & Deployment** — Hosted on AWS EC2 with automated delivery pipelines.
+- **Impact:** Provides a responsive and engaging user experience for dynamic social interactions.
 
 ---
 
-📈 **GitHub Stats**
+### 🎁 **Subscription-Based Reward System**
+**Stack:** Node.js, Express, Razorpay, MongoDB, Bull Queue  
+A fully automated rewards workflow:
+- **Subscription Billing** — Razorpay integration for secure recurring payments.
+- **Reward Lifecycle Automation** — Smart enqueueing and random winner selection with background jobs.
+- **Reliable Background Processing** — Bull queue ensures consistent execution with minimal errors.
+- **Impact:** Reduced manual intervention and ensured fairness and transparency of reward cycles.
+
+---
+
+### 📊 **Investment Portfolio Tracking**
+**Stack:** Node.js, Express, MySQL, Redis, Cron Jobs  
+A backend service for financial portfolio automation:
+- **Interest Calculation Engine** — Supports simple and compound interest with scheduled payouts.
+- **Data Normalization & Reporting** — Structured database design for efficient history tracking.
+- **Cloud Deployment & CI/CD** — Azure/AWS hosting with automated build and release.
+- **Impact:** Enables accurate financial tracking and periodic payouts with minimal supervision.
+
+---
+
+## 🧠 Technical Skills
+
+**Backend & APIs:** Node.js, Express.js, RESTful API Design, WebSockets, JWT/OAuth  
+**Databases:** MySQL, MongoDB, Redis, Query Optimization  
+**Cloud & DevOps:** AWS (Elastic Beanstalk, EC2), CI/CD (GitHub Actions), Nginx  
+**Frontend:** React, Next.js  
+**AI/ML:** Python, scikit-learn, TensorFlow Basics  
+**Tools:** Git, Postman, Docker, Bull Queues, Cron Jobs  
+
+---
+
+## 📈 GitHub Stats
 
 ![HarshitDhaduk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitDhaduk&show_icons=true&theme=radical)
 
@@ -46,12 +73,12 @@ I'm a passionate developer with a strong foundation in biomedical engineering, c
 
 ---
 
-📫 **Connect with Me**
+## 📫 Connect with Me
 
-- **Email**: dhadukharshit@gmail.com
-- **LinkedIn**: [linkedin.com/in/harshit-dhaduk](https://www.linkedin.com/in/harshit-dhaduk)
-- **Twitter**: [@HarshitDhaduk](https://twitter.com/HarshitDhaduk)
+- **Email:** dhadukharshit@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/harshit-dhaduk  
+- **Twitter:** https://twitter.com/HarshitDhaduk
 
 ---
 
-Feel free to reach out if you're interested in collaborating on projects related to AI, ML, or full-stack development!
+💬 *Open to backend, full-stack, and AI/ML opportunities. Let’s build great technology together.*  
