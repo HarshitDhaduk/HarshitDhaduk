@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Harshit Dhaduk
 
-### Backend & Full-Stack Engineer | AI/ML Integrator
+### Backend & Full-Stack Engineer | AI/ML Integrator 
+
+![Visitors](https://komarev.com/ghpvc/?username=HarshitDhaduk&color=blue)
 
 ---
 
