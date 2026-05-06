@@ -46,26 +46,6 @@ A backend service for financial portfolio automation:
 
 ---
 
-### 💬 **Dating Application – Real-Time Matching & Chat**
-**Stack:** Node.js, Express, Socket.IO, MongoDB, JWT
-
-A social platform backend focused on real-time interactions:
-- **Advanced Matching Logic** — Community and interest-based grouping to improve user relevance.
-- **Real-Time Chat Services** — WebSocket-powered communication with room and presence tracking.
-- **CI/CD & Deployment** — Hosted on AWS EC2 with automated delivery pipelines.
-
----
-
-### 🎁 **Subscription-Based Reward System**
-**Stack:** Node.js, Express, Razorpay, MongoDB, Bull Queue
-
-A fully automated rewards workflow:
-- **Subscription Billing** — Razorpay integration for secure recurring payments.
-- **Reward Lifecycle Automation** — Smart enqueueing and random winner selection with background jobs.
-- **Reliable Background Processing** — Bull queue ensures consistent execution with minimal errors.
-
----
-
 ### 🧠 **Carecast – Intelligent Health Diagnostics**
 **Stack:** Python, Flask, scikit-learn, REST API
 
