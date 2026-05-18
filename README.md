@@ -36,16 +36,6 @@ A gamified platform that makes the Indian electoral process more accessible:
 
 ---
 
-### 📊 **Investment Portfolio Tracking System**
-**Stack:** Node.js, Express.js, PostgreSQL, Redis, Cron Jobs
-
-A backend service for financial portfolio automation:
-- **Interest Calculation Engine** — Supports simple and compound interest models with automated monthly payouts.
-- **Redis Caching** — Reduced portfolio aggregation response time from 450ms to 120ms.
-- **Cloud Deployment & CI/CD** — AWS EC2 hosting with automated build and release pipelines.
-
----
-
 ### 🧠 **Carecast – Intelligent Health Diagnostics**
 **Stack:** Python, Flask, scikit-learn, REST API
 
