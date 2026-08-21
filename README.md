@@ -1,6 +1,6 @@
 # Harshit Dhaduk
 
-**AI/ML Engineer · Full-Stack Developer** — Ahmedabad, India
+**AI/ML Engineer · Full-Stack Developer**
 
 I build AI-powered products end to end: RAG pipelines, LLM integrations, and ML models, wrapped in backends and interfaces people actually use. Currently focused on retrieval systems and low-latency inference services on GCP and AWS.
 
@@ -13,6 +13,25 @@ Open to AI/ML and full-stack engineering roles.
 ---
 
 ## Featured Work
+
+### [DevPulse](https://github.com/HarshitDhaduk/DevPulse) — Engineering health intelligence
+A zero-ETL analytics platform that joins live GitHub, Linear, Slack, and Sentry data through Coral's federated SQL engine — no warehouse, no pipeline, no copies of anyone's data.
+
+- Natural-language questions compiled to Coral SQL by Gemini, so managers query engineering health in plain English
+- Automated morning standup digests: what's blocked, what shipped, what's broken, synthesized from live APIs
+- Cross-source JOINs across SaaS tools that normally can't talk to each other
+
+`Python` `FastAPI` `Next.js` `Coral (Federated SQL / MCP)` `Google Gemini` `Cloud Run`
+
+### [Walk Through Time](https://github.com/HarshitDhaduk/walk-through-time) — 3D memorial walkway, 1526–present
+A scroll-driven WebGL walk through Indian history, paired with a sourced ledger of the contemporary era. Built for Independence Day.
+
+- 45 stations along an S-curved camera path, with 42 public-domain photographs hung behind glass and 51 clickable monuments the camera orbits
+- Texture streaming keeps ~5 images resident instead of 42 — ~12 MB of VRAM rather than ~130 MB
+- Ships as a fully static, offline-capable build (~52 kB app gzipped); reduced-motion and screen-reader paths built in, with a plain-HTML fallback when WebGL isn't available
+- The Republic's Ledger: 91 verified source links, allegations kept separate from documented findings
+
+`React` `Vite` `Three.js` `WebGL` `Canvas`
 
 ### [Amazon Rufus Twin](https://github.com/HarshitDhaduk/Amazon-Rufus-Twin) — AI-powered AEO diagnostics
 A reverse-engineered pipeline that simulates how Amazon Rufus surfaces product recommendations, then reports back what's driving them.
@@ -33,24 +52,16 @@ A gamified platform that teaches first-time voters how the electoral process act
 
 `Next.js` `TypeScript` `Gemini 2.5 Pro` `Google Maps Platform` `Docker`
 
-### [Carecast](https://github.com/HarshitDhaduk/Carecast) — ML health diagnostics
-An API-first platform serving disease-risk predictions for diabetes, heart conditions, cancer, and kidney disorders.
-
-- Trained and deployed scikit-learn models behind sub-second REST endpoints
-- Clean separation between inference services and the frontend
-
-`Python` `Flask` `scikit-learn` `REST`
-
 ---
 
 ## Tech
 
 | | |
 |---|---|
-| **AI/ML** | Python, scikit-learn, RAG systems, LLM integration, Voyage AI, Gemini, ChromaDB |
+| **AI/ML** | Python, scikit-learn, RAG systems, LLM integration, Gemini, Voyage AI, ChromaDB, MCP |
 | **Backend** | FastAPI, Node.js, Express, Flask, REST design, WebSockets, JWT/OAuth |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Data** | PostgreSQL, MySQL, MongoDB, Redis, query optimisation |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Three.js, Vite |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Coral federated SQL, query optimisation |
 | **Cloud & DevOps** | GCP (Cloud Run, Cloud Build), AWS (EC2, S3, Beanstalk), Docker, Nginx, GitHub Actions |
 | **Tooling** | Git, Postman, Bull queues, PM2, Socket.IO |
 
@@ -59,8 +70,14 @@ An API-first platform serving disease-risk predictions for diabetes, heart condi
 ## GitHub
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshitDhaduk&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDhaduk&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitDhaduk&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitDhaduk&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitDhaduk&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitDhaduk&theme=github" alt="Top languages" />
+  </picture>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=HarshitDhaduk&color=blue&style=flat)
