@@ -1,67 +1,66 @@
-# 👋 Hi, I'm Harshit Dhaduk
-### Backend & Full-Stack Engineer | AI/ML Integrator
-![Visitors](https://komarev.com/ghpvc/?username=HarshitDhaduk&color=blue)
+# Harshit Dhaduk
+
+**AI/ML Engineer · Full-Stack Developer** — Ahmedabad, India
+
+I build AI-powered products end to end: RAG pipelines, LLM integrations, and ML models, wrapped in backends and interfaces people actually use. Currently focused on retrieval systems and low-latency inference services on GCP and AWS.
+
+Open to AI/ML and full-stack engineering roles.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--dhaduk-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-dhaduk)
+[![X](https://img.shields.io/badge/X-@HarshitDhaduk-000000?logo=x&logoColor=white)](https://twitter.com/HarshitDhaduk)
+[![Email](https://img.shields.io/badge/Email-dhadukharshit@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:dhadukharshit@gmail.com)
 
 ---
 
-🚀 **About Me**
+## Featured Work
 
-I am a software engineer specialising in scalable backend systems, full-stack web applications, and practical AI/ML solutions. I enjoy building reliable, efficient services and APIs that solve real-world problems. I focus on clean architecture, performance optimisation, and deploying systems that users depend on.
+### [Amazon Rufus Twin](https://github.com/HarshitDhaduk/Amazon-Rufus-Twin) — AI-powered AEO diagnostics
+A reverse-engineered pipeline that simulates how Amazon Rufus surfaces product recommendations, then reports back what's driving them.
 
-I am actively seeking opportunities where I can contribute to impactful products and evolve as a backend and full-stack engineer.
+- 6-stage AI pipeline returning a full diagnostic report in under 30 seconds
+- Async RAG on Voyage AI + ChromaDB, keeping the server fully concurrent through high-latency LLM calls
+- SSE streaming with intent-matched query planning — 95%+ agreement with manual audits
+- Cloud Run deploys via Cloud Build CI/CD, with instance warming to cut cold starts
 
----
+`Python` `FastAPI` `Next.js` `Voyage AI` `ChromaDB` `Docker` `GCP Cloud Run`
 
-## 🛠️ Core Projects
+### [Chunav Mitra](https://github.com/HarshitDhaduk/Chunav-Mitra) — Civic tech for Indian elections
+A gamified platform that teaches first-time voters how the electoral process actually works. **Scored 95+ at Google PromptWars.**
 
-### 🤖 **Amazon Rufus Twin – AI-Powered AEO Diagnostic**
-**Stack:** Python, FastAPI, Next.js, Voyage AI, ChromaDB, Docker, GCP Cloud Run
+- 9-step persona-based journey with XP and badge progression
+- EVM/VVPAT simulator built on state-machine logic and the Web Audio API
+- Polling booth locator with live turn-by-turn routing
 
-A reverse-engineering pipeline that simulates Amazon Rufus recommendations:
-- **6-Stage AI Pipeline** — Delivers a full AEO diagnostic report in under 30 seconds.
-- **Async RAG System** — Voyage AI + ChromaDB with 100% server concurrency during high-latency LLM tasks.
-- **Real-Time Streaming** — SSE-based data streaming with query planning that matches shopper intent with 95%+ accuracy vs manual audits.
-- **Cloud Deployment** — Automated Cloud Run via Cloud Build CI/CD with persistent instance warming for low cold-start latency.
+`Next.js` `TypeScript` `Gemini 2.5 Pro` `Google Maps Platform` `Docker`
 
----
+### [Carecast](https://github.com/HarshitDhaduk/Carecast) — ML health diagnostics
+An API-first platform serving disease-risk predictions for diabetes, heart conditions, cancer, and kidney disorders.
 
-### 🗳️ **Chunav Mitra – Civic Tech Electoral Platform**
-**Stack:** Next.js (App Router), TypeScript, Gemini 2.5 Pro, Google Maps Platform, Docker, GCP Cloud Build
+- Trained and deployed scikit-learn models behind sub-second REST endpoints
+- Clean separation between inference services and the frontend
 
-A gamified platform that makes the Indian electoral process more accessible:
-- **95+ Score** — Awarded at Google PromptWars Hackathon for technical excellence and accessibility compliance.
-- **9-Step Interactive Journey** — Persona-based learning with XP/badge gamification using Zustand and Framer Motion.
-- **EVM/VVPAT Simulator** — State-machine logic with Web Audio API for a risk-free voting practice environment.
-- **Polling Booth Locator** — Google Maps integration with real-time turn-by-turn routing and geolocation.
-
----
-
-### 🧠 **Carecast – Intelligent Health Diagnostics**
-**Stack:** Python, Flask, scikit-learn, REST API
-
-A production-oriented health insights platform:
-- **ML-Driven Disease Predictions** — Models for diabetes, heart conditions, cancer risk, and kidney disorders.
-- **API-First Architecture** — Fast, secure REST endpoints for inference with sub-second response times.
-- **Frontend Integration** — Seamless connection between UI and backend prediction services.
+`Python` `Flask` `scikit-learn` `REST`
 
 ---
 
-## 🧠 Technical Skills
+## Tech
 
-**Backend & APIs:** Node.js, Express.js, FastAPI, Flask, RESTful API Design, WebSockets, JWT/OAuth  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis, ChromaDB, Query Optimisation  
-**Cloud & DevOps:** AWS (EC2, Elastic Beanstalk, S3), GCP (Cloud Run, Cloud Build), Docker, Nginx, CI/CD (GitHub Actions)  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**AI/ML:** Python, scikit-learn, LLM Integration, RAG Systems, Voyage AI, Gemini  
-**Tools:** Git, Postman, Bull Queues, Cron Jobs, PM2, Socket.IO  
-
----
-
-## 📫 Connect with Me
-- **Email:** dhadukharshit@gmail.com
-- **LinkedIn:** https://linkedin.com/in/harshit-dhaduk
-- **Twitter:** https://twitter.com/HarshitDhaduk
+| | |
+|---|---|
+| **AI/ML** | Python, scikit-learn, RAG systems, LLM integration, Voyage AI, Gemini, ChromaDB |
+| **Backend** | FastAPI, Node.js, Express, Flask, REST design, WebSockets, JWT/OAuth |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, query optimisation |
+| **Cloud & DevOps** | GCP (Cloud Run, Cloud Build), AWS (EC2, S3, Beanstalk), Docker, Nginx, GitHub Actions |
+| **Tooling** | Git, Postman, Bull queues, PM2, Socket.IO |
 
 ---
 
-💬 *Open to backend, full-stack, and AI/ML opportunities. Let's build great technology together.*
+## GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshitDhaduk&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitDhaduk&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=HarshitDhaduk&color=blue&style=flat)
