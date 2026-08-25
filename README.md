@@ -1,6 +1,6 @@
 # Harshit Dhaduk
 
-**AI/ML Engineer · Full-Stack Developer**
+**AI/ML Engineer · Full-Stack Developer** — Ahmedabad, India
 
 I build AI-powered products end to end: RAG pipelines, LLM integrations, and ML models, wrapped in backends and interfaces people actually use. Currently focused on retrieval systems and low-latency inference services on GCP and AWS.
 
@@ -71,12 +71,12 @@ A gamified platform that teaches first-time voters how the electoral process act
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitDhaduk&theme=github_dark" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitDhaduk&theme=github" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats-card-harshit-dhaduks-projects.vercel.app/api/card?type=stats&theme=dark" />
+    <img height="200" src="https://gh-stats-card-harshit-dhaduks-projects.vercel.app/api/card?type=stats&theme=light" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitDhaduk&theme=github_dark" />
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshitDhaduk&theme=github" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats-card-harshit-dhaduks-projects.vercel.app/api/card?type=langs&theme=dark" />
+    <img height="200" src="https://gh-stats-card-harshit-dhaduks-projects.vercel.app/api/card?type=langs&theme=light" alt="Top languages" />
   </picture>
 </p>
 
